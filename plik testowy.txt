@@ -7,4 +7,7 @@ T jeden wieczór
 T dwa wieczór
 T trzy rano
 T cztery rano
-
+404 jeden wieczór
+404 dwa wieczór
+404 trzy południe
+404 cztery południe
