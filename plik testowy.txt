@@ -5,3 +5,4 @@ init cztery
 init piec
 T jeden wieczór
 T dwa wieczór
+404 jeden wieczór
