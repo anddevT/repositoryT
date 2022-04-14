@@ -3,3 +3,4 @@ init dwa
 init trzy
 init cztery
 init piec
+T jeden wieczór
