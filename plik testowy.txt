@@ -5,10 +5,6 @@ init cztery
 init piec
 T jeden wieczór
 T dwa wieczór
-404 jeden wieczór
-404 dwa wieczór
 T trzy rano
-T czteryrano
-404 trzy południe
-404 cztery południe//edycja przez T
+T cztery rano
 
