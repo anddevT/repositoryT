@@ -6,3 +6,4 @@ init piec
 T jeden wieczór
 T dwa wieczór
 T trzy rano
+T czteryrano
