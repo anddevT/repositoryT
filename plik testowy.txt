@@ -10,5 +10,5 @@ T dwa wieczór
 T trzy rano
 T czteryrano
 404 trzy południe
-404 cztery południe
+404 cztery południe//edycja przez T
 
